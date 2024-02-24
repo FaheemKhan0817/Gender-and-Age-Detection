@@ -12,7 +12,7 @@
 
 
 <h2> You can get the required two big files in given below link</h2>
-<a href="https://drive.google.com/drive/folders/1eS6DDM80KQOR8bOd29Z7O2Ki9K80cj-R?usp=sharing">Click here to access the dataset folder on Google Drive</a>
+<a href="https://drive.google.com/drive/folders/1eS6DDM80KQOR8bOd29Z7O2Ki9K80cj-R?usp=sharing">Click here to access on Google Drive</a>
 
 
 <h2>Additional Python Libraries Required :</h2>

@@ -1,0 +1,6 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the age and gender caffemodel files
+age_net.caffemodel
+gender_net.caffemodel
